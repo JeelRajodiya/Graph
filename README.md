@@ -16,7 +16,7 @@ generate_graph(*data)
 
 
 # Example
-from graph import generate_graph
+from graph import generate_graph    
 x=[1,2,3,4,5,6,7]    
 y=[1,2,3,4,3,2,1]    
 generate_graph(x,y)    
