@@ -1,7 +1,7 @@
 # Graph
 a simple python to create graph in console
 
-#run the demo file.
+# run the demo file.
 
 
 ###################################################################################################
@@ -20,7 +20,7 @@ a simple python to create graph in console
 ###################################################################################################
 
 
-#Example
+# Example
 x=[1,2,3,4,5,6,7]
 y=[1,2,3,4,3,2,1]
 generate_graph(x,y)
