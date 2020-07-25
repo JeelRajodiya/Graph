@@ -41,9 +41,9 @@ class Graph:
                     line+=' '
             return line
     def generate_graph(self):
-        from functions import reversed_range
+        
         graph_lines=[]
-        for i in reversed_range(self.maximum_on_y):
+        for i in range(self.maximum_on_y,-1,-1):
             graph_lines.append(self.get_line(i))
         max_length=max(map(len,graph_lines))    
        
