@@ -1,5 +1,6 @@
 # Graph
 a simple python to create graph in console
+# your small donation of 0.01$ wil be my first earnigs from python
 
 # run the demo file for more understanding
 
